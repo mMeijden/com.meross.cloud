@@ -1,2 +1,3 @@
-# com.meross.cloud
-Homey plugin for Meross Devices
+# Meross devices
+
+Adds support for Meross devices
